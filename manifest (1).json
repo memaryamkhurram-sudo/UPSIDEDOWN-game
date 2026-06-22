@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Upsidedown",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Upsidedown",
+  "start_url": "/",
+  "theme_color": "#0a0015",
+  "id": "com.upsidedown.game",
+  "description": "Can you survive the Upside Down? 30 levels of pure horror await!"
+}
